@@ -3,7 +3,7 @@ title: Welcome to the School
 date: 2021-05-01T11:08:58+08:00
 lastmod: 2021-05-01T11:08:58+08:00
 author: Thomas Vuillaume
-avatar: https://nsip.in2p3.fr/uploads/images/agents/605996f62c58c286687850.jpg
+avatar: https://vuillaut.github.io/images/avatar.png
 cover: /test_hugo/img/welcome.png
 images:
   - /test_hugo/img/analysis.png
