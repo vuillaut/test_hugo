@@ -4,9 +4,9 @@ date: 2021-04-04T21:41:50+08:00
 lastmod: 2021-04-04T21:41:50+08:00
 author: ArturoS
 authorlink: https://github.com/artfisica
-cover: /schools/courseportal/img/analysis.png
+cover: /test_hugo/img/analysis.png
 images:
-  - /schools/courseportal/img/analysis.png
+  - /test_hugo/img/analysis.png
 categories:
   - Computing
 tags:
