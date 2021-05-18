@@ -22,9 +22,9 @@ jobs:
 
       - name: Build
         run:
-          hugo --minify
-          echo "$PWD"
-          ls
+          hugo --minify;
+          echo "$PWD";
+          ls;
 
 
 
