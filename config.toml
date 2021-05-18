@@ -1,4 +1,4 @@
-baseURL = "https://vuillaut.github.io/test_hugo/"
+baseURL = "https://vuillaut.github.io/test_hugo"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "ESCAPE school 2021"
